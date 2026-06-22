@@ -8,7 +8,7 @@
       <Creatives>
         <Creative id="lynx-dooh-creative-001" sequence="1">
           <Linear>
-            <Duration>00:00:15</Duration> <!-- ← EDIT: set to the MP4's real length, 5-60s -->
+            <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile delivery="progressive" type="video/mp4" width="1920" height="1080" bitrate="4500" scalable="true" maintainAspectRatio="true"><![CDATA[https://res.cloudinary.com/dn6yd3gzg/video/upload/v1778490864/weather_eitoee.mp4]]></MediaFile>
             </MediaFiles>
